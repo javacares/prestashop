@@ -1,8 +1,6 @@
-Bonjour,
+您好！
 
-{firstname} {lastname} vous invite à visiter sa liste de cadeaux {wishlist} :
+{firstname} {lastname邀请您来看看他/她的心愿单{wishlist} :
 {message}
 
-
-
-{shop_url} réalisé par PrestaShop™
+{shop_url} 由 PrestaShop™提供

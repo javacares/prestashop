@@ -1,9 +1,9 @@
-Bonjour,
+您好！,
 
-Le produit {product} est bientôt en rupture de stock.
-En effet, le seuil de rupture de stock de {last_qty} a été dépassé.
-Stock restant : {qty}
+商品{product} ，网店暂时没有库存，并超出最大的订购额{last_qty}
 
-Nous vous conseillons de vous rendre sur la fiche du produit afin de renouveler vos stocks.
+尚余库存：{qty}件
 
-{shop_url} réalisé par PrestaShop™
+我们建议您查阅商品目录中，并补充库存。
+
+{shop_url} 由 PrestaShop™

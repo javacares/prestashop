@@ -1,13 +1,5 @@
-Bonjour {name},
-
-
-{customer} vous envoie un lien vers un produit qui pourrait vous intéresser.</h1>
-
-Il s'agit de {product} : {product_link}
-
-
+{name}你好!
+{customer} 想跟您分享一件您可能有兴趣的商品.。
+{product}: {product_link}
 {shop_name} - {shop_url}
-
-
-
-{shop_url} réalisé par PrestaShop™
+{shop_url}由PrestaShop™提供

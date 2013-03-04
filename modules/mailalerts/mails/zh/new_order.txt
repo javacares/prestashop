@@ -1,39 +1,43 @@
-Bonjour,
+新订单
 
-Vous avez reçu une nouvelle commande de {firstname} {lastname} sur {shop_name}.
+您好! {firstname} {lastname}, 感谢您在{shop_name}的购物!
 
-Commande : {order_name}
-Date : {date}
-Transporteur : {carrier}
-Mode de paiement : {payment}
-Bons d'achat et réductions : {total_discounts}
-Frais d'expédition : {total_shipping}
-Total produits : {total_products}
-Emballage cadeau: {total_wrapping}
-Total TTC : {total_paid}
+订单详情
+     
+    订单: {order_name} 已经在{date}下订
+	付款: payment
+	货品数量: {total_products}
+	折扣金额: {total_discounts}
+	运费: {total_shipping}
+	礼品包装费: {total_wrapping}
+	总计： {total_paid}
 
-Adresse de livraison :
 
-{delivery_company}
-{delivery_firstname} {delivery_lastname}
-{delivery_address1}
-{delivery_address2}
-{delivery_postal_code} {delivery_city}
-{delivery_country} {delivery_state}
-{delivery_other}
+运输
+	快递: {carrier}
+	送件地址:
+	收件公司:{delivery_company}
+	收件人: {delivery_firstname} {delivery_lastname}
+	送件地址: {delivery_address1}
+	                {delivery_address2}
+	邮编: {delivery_postal_code} 
+        城市: {delivery_city}
+	省市/ 地区: {delivery_state}
+        国家:{delivery_country} 
+	其他: {delivery_other}
 
-Adresse de facturation :
+	收票地址:
+	收票公司: {invoice_company}
+	收票人: {invoice_firstname} {invoice_lastname}
+	收票地址: {invoice_address1}
+	                {invoice_address2}
+	邮编:{invoice_postal_code}
+        城市: {invoice_city}
+	省市/ 地区:{invoice_state}
+        国家{invoice_country} 
+        其他: {invoice_other}
 
-{invoice_company}
-{invoice_firstname} {invoice_lastname}
-{invoice_address1}
-{invoice_address2}
-{invoice_postal_code} {invoice_city}
-{invoice_country} {invoice_state}
-{invoice_other}
+       您也可到我的账户’- ‘订购记录查看有关项目。
 
-Message client :
 
-{message}
-
-{shop_url} réalisé par PrestaShop™
+{shop_url} 由PrestaShop™提供

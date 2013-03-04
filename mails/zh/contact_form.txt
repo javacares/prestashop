@@ -1,17 +1,15 @@
-Hello,
+我们的客户服务主任已经接收到您的信息，谢谢!
 
-Your message has been sent successfully to {shop_name} Customer Service.
 
-Your message:
+内容:
 
 {message}
 
-Order reference : {order_name}
 
-Attached file : {attached_file}
+我们将尽快回复。
 
-We will respond as soon as possible.
+祝：
 
-Regards,
+生活愉快！
 
 {shop_url} powered by PrestaShop™

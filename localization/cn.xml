@@ -25,11 +25,11 @@
 		</taxRulesGroup>
 	</taxes>
 	<states>
-		<state name="Beijing" iso_code="11" country="CN" zone="Asia" tax_behavior="0" />
-		<state name="Chongqing" iso_code="50" country="CN" zone="Asia" tax_behavior="0" />
-		<state name="Shanghaï" iso_code="31" country="CN" zone="Asia" tax_behavior="0" />
-		<state name="Tianjin" iso_code="12" country="CN" zone="Asia" tax_behavior="0" />
-		<state name="Anhui" iso_code="34" country="CN" zone="Asia" tax_behavior="0" />
+		<state name="北京" iso_code="11" country="CN" zone="Asia" tax_behavior="0" />
+		<state name="重庆" iso_code="50" country="CN" zone="Asia" tax_behavior="0" />
+		<state name="上海" iso_code="31" country="CN" zone="Asia" tax_behavior="0" />
+		<state name="天津" iso_code="12" country="CN" zone="Asia" tax_behavior="0" />
+		<state name="安徽" iso_code="34" country="CN" zone="Asia" tax_behavior="0" />
 		<state name="Fujian" iso_code="35" country="CN" zone="Asia" tax_behavior="0" />
 		<state name="Gansu" iso_code="62" country="CN" zone="Asia" tax_behavior="0" />
 		<state name="Guangdong" iso_code="44" country="CN" zone="Asia" tax_behavior="0" />

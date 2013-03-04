@@ -1,9 +1,11 @@
-Hello,
-		
-Warning: you have received a new log alert in your Back Office.
-	
-You can check for it in the "Tools" > "Logs" section of your Back Office.
+您好！
 
+登入警告	
+
+很抱歉，在登入过程中发生了问，登入警告讯息已被储存。
+
+你可到网站后台>工具>登入中查看有关资料。
+		
 {shop_name} - {shop_url}
 
 {shop_url} powered by PrestaShop™

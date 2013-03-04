@@ -1,9 +1,7 @@
-Félicitations !
+恭喜!
 
-Votre filleul(e) {sponsored_firstname} {sponsored_lastname} a effectué son premier achat sur notre site {shop_url} !
+你的朋友{sponsored_firstname} {sponsored_lastname}已经在下了他/她的第一个订单了！
 
-Nous avons le plaisir de vous offrir un bon d'achat de {discount_display} (bon de réduction avec le code : {discount_name}), que vous pourrez utiliser à l'occasion de votre prochaine commande.
+我们将会送您一张价值 {discount_display} (voucher # {discount_name})的购物礼劵以答谢对我们的支持！
 
-
-
-{shop_url} réalisé par PrestaShop™
+{shop_url} 由PrestaShop™ 提供

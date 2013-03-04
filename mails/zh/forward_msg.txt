@@ -1,0 +1,6 @@
+{employee} 发送以下讯息给您。
+
+
+意见: {comment}
+ 
+{messages}

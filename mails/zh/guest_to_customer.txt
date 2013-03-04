@@ -1,12 +1,17 @@
-	Hi {firstname} {lastname},
+	 {firstname} {lastname}您好！
 
-Your guest account for {shop_name} has been transformed into a customer account.
 
-	E-mail address: {email}
-	Password: {passwd}
+        恭喜！您已经成为我们的会员了！感谢您的支持！
 
-	You can access your account on our website: {shop_url}
+	电邮地址: {email}
+	密码: {passwd}
 
-	Please be careful when sharing these login details with others.
 
-{shop_url} powered by PrestaShop™
+        您可透过以下网址查看个人帐户资料: {shop_url}
+
+	请小心私隐外泄，切勿随便分享个人帐号资料。
+
+
+
+	{shop_url} powered by PrestaShop™
+

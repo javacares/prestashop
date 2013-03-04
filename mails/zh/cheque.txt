@@ -6,7 +6,7 @@
 
 - 货款总计：{total_paid}
 
-- 应付抬头人：{cheque_name}
+- 支票抬头：{cheque_name}
 
 - 邮寄至：{cheque_address}
 

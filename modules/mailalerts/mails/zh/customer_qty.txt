@@ -1,10 +1,9 @@
-Bonjour,
+您好,
 
-Le produit {product} est de nouveau disponible.
-En effet, le stock a été réaprovisionné.
+商品{product}已经上市，并有库存。
 
-Vous pouvez accéder à la page produit à ce lien: {product_link}
+请进入以下网页查看产品详情：{product_link}
 
-Vous pouvez donc de nouveau commander ce produit depuis notre catalogue en ligne.
+数量有限，预购从速。
 
-{shop_url} réalisé par PrestaShop™
+{shop_url}由 PrestaShop™提供

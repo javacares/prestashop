@@ -1,7 +1,5 @@
-Bonjour,
+Hi您好!
 
-Merci de votre inscription à notre newsletter
+非常感谢您的订阅我们的通讯!
 
-
-
-{shop_url} réalisé par PrestaShop™
+{shop_url} 由PrestaShop™提供
