@@ -132,11 +132,14 @@ span.view_scroll_spacer {
 	background:url(../img/icon/picto_fb.png) no-repeat 0 0;
 }
 
+#center_column {
+    width: 736px
+}
 /* pb-left-column ****************************************************************************** */
 #pb-left-column {
 	float:left;
 	margin-left:14px;
-	width:255px;
+	width:448px;
 }
 
 #pb-left-column h1 {
