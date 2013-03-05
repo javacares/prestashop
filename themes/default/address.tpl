@@ -156,7 +156,7 @@ $(function(){ldelim}
 		*}
 		{/if}
 		{if $field_name eq 'Country:name' || $field_name eq 'country'}
-		<p class="required select">
+		<p class="required select" style="display: none">
 			<label for="id_country">{l s='Country'} <sup>*</sup></label>
 			<select id="id_country" name="id_country">{$countries_list}</select>
 		</p>
