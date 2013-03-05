@@ -124,12 +124,7 @@ $(function(){ldelim}
 		<p class="required text">
 			<label for="firstname">{l s='First name'} <sup>*</sup></label>
 			<input type="text" name="firstname" id="firstname" value="{if isset($smarty.post.firstname)}{$smarty.post.firstname}{else}{if isset($address->firstname)}{$address->firstname}{/if}{/if}" />
-		</p>
-		{/if}
-		{if $field_name eq 'lastname'}
-		<p class="required text">
-			<label for="lastname">{l s='Last name'} <sup>*</sup></label>
-			<input type="text" id="lastname" name="lastname" value="{if isset($smarty.post.lastname)}{$smarty.post.lastname}{else}{if isset($address->lastname)}{$address->lastname}{/if}{/if}" />
+			<input type="hidden" name="lastname" id="lastname" value=" " />
 		</p>
 		{/if}
 		{if $field_name eq 'address1'}
