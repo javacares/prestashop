@@ -129,10 +129,6 @@
 					<label for="firstname">{l s='First name'} <sup>*</sup></label>
 					<input type="text" class="text" id="customer_firstname" name="customer_firstname" onblur="$('#firstname').val($(this).val());" value="{if isset($guestInformations) && $guestInformations.customer_firstname}{$guestInformations.customer_firstname}{/if}" />
 				</p>
-				<p class="required text">
-					<label for="lastname">{l s='Last name'} <sup>*</sup></label>
-					<input type="text" class="text" id="customer_lastname" name="customer_lastname" onblur="$('#lastname').val($(this).val());" value="{if isset($guestInformations) && $guestInformations.customer_lastname}{$guestInformations.customer_lastname}{/if}" />
-				</p>
 				<p class="select">
 					<span>{l s='Date of Birth'}</span>
 					<select id="days" name="days">
@@ -190,11 +186,7 @@
 				<p class="required text">
 					<label for="firstname">{l s='First name'} <sup>*</sup></label>
 					<input type="text" class="text" id="firstname" name="firstname" value="{if isset($guestInformations) && $guestInformations.firstname}{$guestInformations.firstname}{/if}" />
-				</p>
-				{elseif $field_name eq "lastname"}
-				<p class="required text">
-					<label for="lastname">{l s='Last name'} <sup>*</sup></label>
-					<input type="text" class="text" id="lastname" name="lastname" value="{if isset($guestInformations) && $guestInformations.lastname}{$guestInformations.lastname}{/if}" />
+					<input type="hidden" id="lastname" name="lastname" value=" " />
 				</p>
 				{elseif $field_name eq "address1"}
 				<p class="required text">
@@ -302,11 +294,7 @@
 					<p class="required text">
 						<label for="firstname_invoice">{l s='First name'} <sup>*</sup></label>
 						<input type="text" class="text" id="firstname_invoice" name="firstname_invoice" value="" />
-					</p>
-					{elseif $field_name eq "lastname"}
-					<p class="required text">
-						<label for="lastname_invoice">{l s='Last name'} <sup>*</sup></label>
-						<input type="text" class="text" id="lastname_invoice" name="lastname_invoice" value="" />
+						<input type="hidden" class="text" id="lastname" name="lastname" value=" " />
 					</p>
 					{elseif $field_name eq "address1"}
 					<p class="required text">
