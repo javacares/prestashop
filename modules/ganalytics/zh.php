@@ -13,7 +13,7 @@ $_MODULE['<{ganalytics}prestashop>ganalytics_a3e7f361e6fc12caf872119338642143'] 
 $_MODULE['<{ganalytics}prestashop>ganalytics_6a26f548831e6a8c26bfbbd9f6ec61e0'] = '帮助';
 $_MODULE['<{ganalytics}prestashop>ganalytics_d78b0fcff6b55bafe615f3fc1572c282'] = '跟踪电子商务交易的第一步是在您的站点配置里启用电子商务报告.';
 $_MODULE['<{ganalytics}prestashop>ganalytics_d02388589ecfd3b58e0a90e42127ca61'] = '启用电子商务报告，请执行下面这些步骤：';
-$_MODULE['<{ganalytics}prestashop>ganalytics_11f4b4ba23dc72ee5e86ff5a90bdde60'] = '登陆您的账户';
+$_MODULE['<{ganalytics}prestashop>ganalytics_11f4b4ba23dc72ee5e86ff5a90bdde60'] = '登录您的账户';
 $_MODULE['<{ganalytics}prestashop>ganalytics_d0fd46565a0f0fea12fcdf0883ac6c99'] = '单击编辑然后进入配置文件启用';
 $_MODULE['<{ganalytics}prestashop>ganalytics_f24781cbd08509a85c33001f94666d30'] = '在配置文件页面中，单击编辑进入主站点配置信息';
 $_MODULE['<{ganalytics}prestashop>ganalytics_5189c0be0481408c9301c377818e69dc'] = '选择电子商务网站的\\\"是\\\"单选按钮';
