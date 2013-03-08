@@ -7,11 +7,11 @@ $_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_29bb2b1824eb758128d5a
 $_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_f0f2c414f4953aa7d9b9c5e087f809de'] = '选定显示的文件';
 $_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_930e6728b148ce5509c6478f0670baae'] = '请检查将在此模块显示的文件';
 $_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_b718adec73e04ce3ec720dd11a06a308'] = 'ID';
-$_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_49ee3087348e8d44e1feda1917443987'] = '名稱';
+$_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_49ee3087348e8d44e1feda1917443987'] = '名称';
 $_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_06933067aafd48425d67bcb01bba5cb6'] = '更新';
 $_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_1f4fa45ebc93811596333e8b2e3a6f31'] = 'cms 更新';
-$_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_d1aa22a3126f04664e0fe3f598994014'] = '特價產品';
+$_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_d1aa22a3126f04664e0fe3f598994014'] = '特价商品';
 $_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_9ff0635f5737513b1a6f559ac2bff745'] = '最新产品';
-$_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_3cb29f0ccc5fd220a97df89dafe46290'] = '暢銷排行';
+$_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_3cb29f0ccc5fd220a97df89dafe46290'] = '畅销排行';
 $_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_02d4482d332e1aef3437cd61c9bcc624'] = '联系我们';
 $_MODULE['<{blockvariouslinks}prestashop>blockvariouslinks_7a52e36bf4a1caa031c75a742fb9927a'] = 'Power by';
