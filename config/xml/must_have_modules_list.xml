@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules>
+    <module>
+        <name><![CDATA[seohelping]]>
+        </name>
+        <displayName><![CDATA[SEO (Search Engine Optimization)]]>
+        </displayName>
+        <description><![CDATA[SEO Module for PrestaShop lets you increase your SEO of your shop.]]>
+        </description>
+        <author><![CDATA[Prestashop]]>
+        </author>
+        <sales><![CDATA[0]]>
+        </sales>
+        <price>
+            <EUR><![CDATA[149]]>
+            </EUR>
+            <USD><![CDATA[199.99]]>
+            </USD>
+            <GBP><![CDATA[134.99]]>
+            </GBP>
+        </price>
+        <url><![CDATA[http://addons.prestashop.com/en/seo-prestashop-modules/175-seo-search-engine-optimization.html?utm_source=v1trunk_api&utm_content=seohelping]]>
+        </url>
+        <tab><![CDATA[seo]]>
+        </tab>
+        <version><![CDATA[1.0]]>
+        </version>
+        <id><![CDATA[175]]>
+        </id>
+        <img><![CDATA[http://addons-media.prestashop.com/img/logo/175.gif?t=07]]>
+        </img>
+    </module>
+    <module>
+        <name><![CDATA[innovativemenu]]>
+        </name>
+        <displayName><![CDATA[Rich menu]]>
+        </displayName>
+        <description><![CDATA[Simplify your customers' navigation by adding a rich menu on your online store! This module is fully configurable, you can create a full menu and prioritize your catalog.]]>
+        </description>
+        <author><![CDATA[Prestashop]]>
+        </author>
+        <sales><![CDATA[0]]>
+        </sales>
+        <price>
+            <EUR><![CDATA[49.9]]>
+            </EUR>
+            <USD><![CDATA[69.99]]>
+            </USD>
+            <GBP><![CDATA[44.99]]>
+            </GBP>
+        </price>
+        <url><![CDATA[http://addons.prestashop.com/en/front-office-features-prestashop-modules/4556-rich-menu.html?utm_source=v1trunk_api&utm_content=innovativemenu]]>
+        </url>
+        <tab><![CDATA[front_office_features]]>
+        </tab>
+        <version><![CDATA[1.6.7]]>
+        </version>
+        <id><![CDATA[4556]]>
+        </id>
+        <img><![CDATA[http://addons-media.prestashop.com/img/pico/4556.jpg?t=07]]>
+        </img>
+    </module>
+    <module>
+        <name><![CDATA[prestashop-user-guide-15]]>
+        </name>
+        <displayName><![CDATA[PrestaShop 1.5 User Guide]]>
+        </displayName>
+        <description><![CDATA[300 pages to enjoy 100% of PrestaShop's 275 features, improve your sales and save time!
+ 
+ 
+Enjoy 100% of PrestaShop's 275 features!
+Finally downloadable in PDF form, this PrestaShop 1.]]>
+        </description>
+        <author><![CDATA[Prestashop]]>
+        </author>
+        <sales><![CDATA[0]]>
+        </sales>
+        <price>
+            <EUR><![CDATA[16.6]]>
+            </EUR>
+            <USD><![CDATA[19.95]]>
+            </USD>
+            <GBP><![CDATA[14.9]]>
+            </GBP>
+        </price>
+        <url><![CDATA[http://addons.prestashop.com/en/administration-tools-prestashop-modules/6644-prestashop-15-user-guide.html?utm_source=v1trunk_api&utm_content=prestashop-user-guide-15]]>
+        </url>
+        <tab><![CDATA[administration]]>
+        </tab>
+        <version><![CDATA[1.0]]>
+        </version>
+        <id><![CDATA[6644]]>
+        </id>
+        <img><![CDATA[http://addons-media.prestashop.com/img/pico/6644.jpg?t=07]]>
+        </img>
+    </module>
+</modules>
